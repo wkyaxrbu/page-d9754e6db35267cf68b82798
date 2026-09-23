@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "47d98a8f9e0625e3811ac891",
+  "owner": "wkyaxrbu",
+  "repo": "page-d9754e6db35267cf68b82798",
+  "title": "貓貓互聯",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d9754e6db35267cf68b82798",
+      "a": "貓貓互聯",
+      "b": "机场官网线路发布页",
+      "entity": "貓貓互聯",
+      "brand": "貓貓互聯",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4a5699e21d282f36373be2dfbd7e2f9ee4251e402fd4c3e42c37ac6f2620e634",
+      "content": {
+        "primary_entity": "貓貓互聯",
+        "keyword1": "貓貓互聯",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择订阅客户端：手机用 Clash 或 Shadowrocket，电脑用 Clash Verge 或 V2RayN，路由器按固件方案配置。",
+          "AI_CLIENTS_TITLE": "设备与客户端搭配",
+          "AI_CLOSING_TEXT": "先确定设备数量和月流量，再选择适合的套餐方案。",
+          "AI_CLOSING_TITLE": "挑对套餐",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档方案，覆盖不同设备数量与月流量需求。旗舰版包含 IPLC 专线节点，适合游戏与高清流媒体；团队版支持 20 台设备与定制路由。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。按设备数量和月流量选即可。",
+          "AI_FAQ_ANSWER_2": "在客户端中订阅配置通常通过导入订阅链接完成。具体操作可依照所用客户端的说明文档进行，不同客户端界面有所差异。",
+          "AI_FAQ_ANSWER_3": "基础版与旗舰版适合个人日常使用；旗舰版含 IPLC 专线，对游戏延迟敏感的用户更合适；团队版面向多设备与需要定制路由的场景。",
+          "AI_FAQ_ANSWER_4": "三个套餐均提供按月与按年两种周期。按年付可节省费用，例如基础版按年付仅需 ¥150/年，旗舰版按年付仅需 ¥350/年。",
+          "AI_FAQ_ANSWER_5": "同一账号可同时在线的设备数量取决于套餐：基础版 3 台、旗舰版 5 台、团队版 20 台。超出后新增设备需切换或升级套餐。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数怎么区分？",
+          "AI_FAQ_QUESTION_2": "订阅导入客户端需要哪些步骤？",
+          "AI_FAQ_QUESTION_3": "哪个套餐更适合游戏或流媒体？",
+          "AI_FAQ_QUESTION_4": "按月付和按年付有什么区别？",
+          "AI_FAQ_QUESTION_5": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "围绕套餐档位、设备需求和订阅周期三个方面说明。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/月适合轻量使用，旗舰版 300GB/月与团队版 1000GB/月覆盖更高流量场景。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版最多 20 台，按日常同时在线设备数选择。",
+          "AI_FEATURE_TEXT_3": "按月付灵活调整，按年付更省，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TITLE_3": "按周期选付",
+          "AI_GUIDE_INTRO": "从选择套餐到配置订阅的简单流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "貓貓互聯提供基础版、旗舰版与团队版三档海外加速方案，覆盖不同设备数量与月流量需求。旗舰版配备 IPLC 专线节点，适合游戏与高清流媒体。",
+          "AI_HERO_SUBTITLE": "三档套餐覆盖多设备加速",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，均可按年付节省费用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和每月预计流量，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认常用设备的系统与客户端类型，查看套餐对应的在线设备数是否满足。",
+          "AI_STEP_TEXT_3": "按照所选客户端的说明文档导入订阅配置，完成连接设置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "貓貓互聯套餐精选"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rpboq.cn",
+    "host": "rpboq.cn"
+  },
+  "file_hashes": {
+    "index.html": "0e75509f098bea38fd88a55f50d1b45b1e81958ffeed3c8f56072022613f99cb",
+    "sitemap.xml": "34d397f09451a20453bd7e1d42a1e6902bea6420f2283748895f4f4a3829f86d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "34477bfbbdca0e7739f5ca76c6b9b4aefc23b1b297d9b7bb818cda4f31e49966",
+    "robots.txt": "f8ab97b641b53af37f6cb5b25c23e9873ffb9cbe138f665e8dd73125dabe2ded",
+    "2d8eaf233e44e54b478686825206aa8a.txt": "3e2d3fafc6733fdce8275d5e452d2ca25a742d79d21b8bb3a2fd94e463266dcf"
+  },
+  "revision": "ccd8597492b9381e4b071b5d413f65beb24c9e3566e2f1b57a5f57920b6c0920"
+}
